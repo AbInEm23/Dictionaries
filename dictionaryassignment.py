@@ -35,4 +35,4 @@ if A in course_time:
 else:
     print('No time found :(')
 
-    
+
